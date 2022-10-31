@@ -432,7 +432,7 @@ li{
  }
 
  /*etiqueta flotante*/
- #label{
+ .label{
     color: #000000;
     position: absolute;
     top: -3%;
