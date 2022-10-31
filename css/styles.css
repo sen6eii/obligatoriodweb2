@@ -12,6 +12,7 @@ html{
     padding: 0;
     box-sizing: border-box;
     font-family:'Poppins', sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 
 
@@ -192,6 +193,7 @@ h1{
     font-size: 1em;
     flex-wrap: wrap;
     color: white;
+    font-size: 0.8em;
 }
 
 .grid article{
@@ -397,6 +399,7 @@ li{
     padding: 2em 2em 0em 2em;
     justify-content: space-evenly;
     align-content: center;
+    font-size: 0.8em;
   
  }
 
@@ -432,7 +435,7 @@ li{
  }
 
  /*etiqueta flotante*/
- .label{
+ #label{
     color: #000000;
     position: absolute;
     top: -3%;
@@ -452,6 +455,7 @@ li{
     background-color: rgba(173,180,191,1);
     height: 55vh;
     position: relative;
+    font-size: 0.7em;
  }
 
  .contacto-div{
